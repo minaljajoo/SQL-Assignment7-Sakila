@@ -1,4 +1,4 @@
-# SQL-Assignment9-Sakila
+# SQL-Assignment-Sakila
 # Homework Assignment
 
 ## Installation Instructions
